@@ -10,3 +10,10 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 BONUS
 1 - Mostrare il risultato a video in html;
 2 - Stilizzare con i css la pagina
+
+1- richiedere il numero di kilometri che l'utente vuole percorrere;
+2- richiedre l'età dell'utente;
+3- definire il prezzo del biglietto in base hai kilometri che l'utente vuole percorrere;
+4- applicare uno sconto del 20% se l'utente è minorenne;
+5- applicare uno sconto del 65% se l'utente è over 65;
+6- in caso di sconti applicati definire il prezzo finale con massimo due decimali 
